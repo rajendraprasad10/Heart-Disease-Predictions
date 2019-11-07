@@ -1,3 +1,3 @@
 # Heart-Disease-Predictions
 
-https://heartdiseasepredictions.herokuapp.com/predict
+https://heartdiseasepredictions.herokuapp.com
